@@ -15,3 +15,6 @@ Now that your network has been configured. Install the Domain Services role on y
 <img width="387" height="136" alt="Screenshot 2026-06-13 183434" src="https://github.com/user-attachments/assets/2884c7f9-16b4-4ee1-b930-e7a882989de9" />
 
 After it has been installed you now need to deploy it.  
+
+You will know if it has been installed if the user is now MYDOMAIN\administrator
+<img width="1192" height="708" alt="Screenshot 2026-06-14 162035" src="https://github.com/user-attachments/assets/26407357-a382-40b7-a126-948186c6aa28" />
