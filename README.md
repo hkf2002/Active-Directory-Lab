@@ -13,4 +13,5 @@ Now that you have identified which adapter is which, you now must set up the int
 # Adding Domain
 Now that your network has been configured. Install the Domain Services role on your server.
 <img width="387" height="136" alt="Screenshot 2026-06-13 183434" src="https://github.com/user-attachments/assets/2884c7f9-16b4-4ee1-b930-e7a882989de9" />
+
 After it has been installed you now need to deploy it.  
