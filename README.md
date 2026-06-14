@@ -18,3 +18,25 @@ After it has been installed you now need to deploy it.
 
 You will know if it has been installed if the user is now MYDOMAIN\administrator
 <img width="1192" height="708" alt="Screenshot 2026-06-14 162035" src="https://github.com/user-attachments/assets/26407357-a382-40b7-a126-948186c6aa28" />
+
+# Creating Admin Account
+Now that you have added a domain you must create and admin account instead of the default account.
+
+Locate the Active Directory Users and Computers.
+
+<img width="345" height="390" alt="Screenshot 2026-06-14 162353" src="https://github.com/user-attachments/assets/22bc2b90-fd96-49a5-ae2f-6df7d0ce8951" />
+
+Once found, right-click (yourdomain).com and create an organization unit naming that admin or any naming convention you prefer for this lab.
+
+<img width="1581" height="784" alt="Screenshot 2026-06-14 162605" src="https://github.com/user-attachments/assets/07343fd1-8492-4e87-b00a-f59ca5679af2" />
+
+After that has been created, right-click the OU and create a new user.
+
+<img width="645" height="585" alt="Screenshot 2026-06-14 162721" src="https://github.com/user-attachments/assets/cbd7d3b5-a851-482b-a89f-d3eec4c34dfa" />
+
+You will notice that the user is not admin. Right-click the user and go into properties, click "Member of" then click add and title the object to your preference, check the name, and then click "okay". 
+
+<img width="1292" height="954" alt="Screenshot 2026-06-14 163408" src="https://github.com/user-attachments/assets/07426117-1664-47ec-b047-44b536c638bb" />
+
+
+
