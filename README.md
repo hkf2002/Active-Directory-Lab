@@ -45,5 +45,8 @@ You will notice that the user is not admin. Right-click the user and go into pro
 
 <img width="1292" height="954" alt="Screenshot 2026-06-14 163408" src="https://github.com/user-attachments/assets/07426117-1664-47ec-b047-44b536c638bb" />
 
+Sign out of your account and then log in to "other user" and log in with the credentials you have set your admin account as.
+
+<img width="1313" height="863" alt="Screenshot 2026-06-14 163829" src="https://github.com/user-attachments/assets/1c8525b8-9ef1-4643-805a-4cdf91f540d5" />
 
 
