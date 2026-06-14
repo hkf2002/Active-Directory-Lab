@@ -49,4 +49,15 @@ Sign out of your account and then log in to "other user" and log in with the cre
 
 <img width="1313" height="863" alt="Screenshot 2026-06-14 163829" src="https://github.com/user-attachments/assets/1c8525b8-9ef1-4643-805a-4cdf91f540d5" />
 
-# RAS/NAT
+# RAS/NAT Installation
+
+The purpose of installing RAS/NAT is to allow the Windows 10 Client to connect to the public facing internet using one IP address without having exhaust the address pool in the network.
+
+What you need to do, is to install remote access through the "Add Roles and Features" and then click the role services, "Routing" and "DirectAccess and VPN". 
+
+<img width="934" height="570" alt="Screenshot 2026-06-14 180801" src="https://github.com/user-attachments/assets/de2c3236-7358-4294-bb8b-3c55ef98e20b" />
+
+<img width="1267" height="695" alt="Screenshot 2026-06-14 181320" src="https://github.com/user-attachments/assets/40bde6e8-e42d-4375-b1f3-717d9233d54a" />
+
+
+
