@@ -119,9 +119,21 @@ Now you can rename this PC by going to "Rename this PC (Advanced)". Click change
 
 <img width="1311" height="825" alt="image" src="https://github.com/user-attachments/assets/8a9b5664-09fb-421e-b49a-9281a281aa79" />
 
-After it has restarted you can go to your DC and look in the IPv4 Address Leases and see the User VM you had just created leasing out a DHCP address.
+After it has restarted you can go to your DC and look in the IPv4 Address Leases and see the computer you had just created leasing out a DHCP address.
 
 <img width="2017" height="1093" alt="Screenshot 2026-06-14 220937" src="https://github.com/user-attachments/assets/c85acf38-14f0-46ff-b281-503d7c53d866" />
+
+You can also go into the Active Directory and click in the Computers container and see the computer.
+
+<img width="1241" height="615" alt="Screenshot 2026-06-14 221248" src="https://github.com/user-attachments/assets/f91ecb0f-48ed-4bfd-a706-684588412825" />
+
+Lastly, you can go to the Windows 10 VM and log in with any of the users you created with the Powershell Script 
+
+<img width="1459" height="1085" alt="Screenshot 2026-06-14 221518" src="https://github.com/user-attachments/assets/d3c3812e-24d9-4513-80bf-de03108cb397" />
+
+# Lab Conclusion
+
+From creating this lab, I believe it has covered all basics of Active Directory, VMs, OS Installation, IP Addressing, and User Creation. This is great fundamental starting point for anyone who wants to get a hands-on experience either being a complete beginner or have been in school and want to break into the IT Space. 
 
 
 
