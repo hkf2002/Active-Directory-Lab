@@ -119,7 +119,7 @@ Now you can rename this PC by going to "Rename this PC (Advanced)". Click change
 
 <img width="1311" height="825" alt="image" src="https://github.com/user-attachments/assets/8a9b5664-09fb-421e-b49a-9281a281aa79" />
 
-After it has restard you can go to your DC and look in the IPv4 Address Leases and see the User VM you had just created leasing out a DHCP address.
+After it has restarted you can go to your DC and look in the IPv4 Address Leases and see the User VM you had just created leasing out a DHCP address.
 
 <img width="2017" height="1093" alt="Screenshot 2026-06-14 220937" src="https://github.com/user-attachments/assets/c85acf38-14f0-46ff-b281-503d7c53d866" />
 
