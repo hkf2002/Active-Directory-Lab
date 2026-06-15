@@ -133,7 +133,7 @@ Lastly, you can go to the Windows 10 VM and log in with any of the users you cre
 
 # Lab Conclusion
 
-From creating this lab, I believe it has covered all basics of Active Directory, VMs, OS Installation, IP Addressing, and User Creation. This is great fundamental starting point for anyone who wants to get a hands-on experience either being a complete beginner or have been in school and want to break into the IT Space. 
+From creating this lab, I believe it has covered all basics of Active Directory, VMs, OS Installation, IP Addressing, and User Creation. This is great fundamental starting point for anyone who wants to get a hands-on experience into these skills, either being a complete beginner or have been in school and want to break into the IT Space. 
 
 
 
