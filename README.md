@@ -99,6 +99,34 @@ Once that has ran until you have created as many users as you want. Make sure to
 
 <img width="1693" height="829" alt="Screenshot 2026-06-14 201240" src="https://github.com/user-attachments/assets/ae07014e-4ee3-45c9-a062-38b868b8ac78" />
 
+# Windows 10 VM
+
+Now it's time to install the Windows 10 VM. 
+
+Create the VM giving it the amount of resources you require, go to the network tab in settings and attach Adapter 1 to the Internal Network
+
+<img width="1211" height="656" alt="Screenshot 2026-06-14 202014" src="https://github.com/user-attachments/assets/16076ff9-bc32-45ca-98c1-ac3d58fffc6b" />
+
+Now you can install Windows 10, make sure to use Windows 10 Pro in order to join the Domain.
+
+Once Windows 10 is installed open Command Prompt and type ipconfig to check that you are connected to domains scope and default gateway and check if you can ping any other server.
+
+<img width="1327" height="774" alt="Screenshot 2026-06-14 215819" src="https://github.com/user-attachments/assets/b1ec4e38-4548-499d-a6cb-8e30f5855966" />
+
+<img width="1648" height="998" alt="Screenshot 2026-06-14 220216" src="https://github.com/user-attachments/assets/0b02319d-a5be-4b5c-b5de-c9124efba809" />
+
+Now you can rename this PC by going to "Rename this PC (Advanced)". Click change and type the VMs name and typing in "Member of" the name of the domain. 
+
+<img width="1311" height="825" alt="image" src="https://github.com/user-attachments/assets/8a9b5664-09fb-421e-b49a-9281a281aa79" />
+
+After it has restard you can go to your DC and look in the IPv4 Address Leases and see the User VM you had just created leasing out a DHCP address.
+
+<img width="2017" height="1093" alt="Screenshot 2026-06-14 220937" src="https://github.com/user-attachments/assets/c85acf38-14f0-46ff-b281-503d7c53d866" />
+
+
+
+
+
 
 
 
